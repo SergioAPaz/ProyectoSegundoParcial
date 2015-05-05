@@ -7,9 +7,9 @@ import mx.uach.compiladores.analizadorlexico.Token;
 import java.util.stream.Collectors;
 
 /**
- * @author Sergio Alejandro Paz Holguin 264951
+ * @author Sergio Alejandro Paz Holguin 264951 y Julio Alberto Alvarez Navarrete 256962
  * @version  1.0
- * @since 16/03/2015
+ * @since 04/05/2015
  */
 
 %%

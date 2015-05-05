@@ -3,7 +3,7 @@ package mx.uach.compiladores.analizadorlexico;
 /**
  * @author Sergio Alejandro Paz Holguin 264951
  * @version  1.0
- * @since 16/03/2015
+ * @since 04/05/2015
  */
 public class Token {
 
